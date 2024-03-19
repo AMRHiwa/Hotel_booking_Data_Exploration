@@ -13,6 +13,8 @@ and these are our steps in this __Data Extraction__:
 5. Deleting the unuseable column and data.
 6. management the of outliers.
 7. Management the Data and extraction new data from old data.
+8. Drawing diagrams of the problem.
+
 
 
 <h2 id="about_ds">About Dataset</h2>
