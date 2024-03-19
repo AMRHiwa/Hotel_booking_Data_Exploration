@@ -1,6 +1,18 @@
 # Hotel booking Data Exploration
 
-In this file we have tried to read the hotel_booking.csv file and extract its data.
+In this repository, we intend to extract data from the mentioned dataset and display everything that seems interesting.
+
+If you want to know about used dateset <a href="#about_ds">Click Here!</a>
+
+and these are our steps in this __Data Extraction__:
+
+1. Importing modules like pandas, matplotlib and numpy.
+2. Reading the dataset as DataFrame object.
+3. Getting the information about our DataFrame.
+4. Finding missing value percentage in DataFrame. 
+5. Deleting the unuseable column and data.
+6. management the of outliers.
+7. Management the Data and extraction new data from old data.
 
 
 <h2 id="about_ds">About Dataset</h2>
