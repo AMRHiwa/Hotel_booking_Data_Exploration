@@ -18,18 +18,26 @@ and these are our steps in this __Data Extraction__:
 8. Drawing diagrams of the problem.
 
 
-<h2 id="plots">Plots</a>
+<h2 id="plots">Plots:</a>
+
+---
 
 <img src='plots/lead_time_bin.png' width=80%>
+
 <img src='plots/Percentage_of_Arrival_Date_Month_for_Family_0.png' width=80%>
+
 <img src='plots/Percentage_of_Arrival_Date_Month_for_Family_1.png' width=80%>
+
 <img src='plots/Percentage_of_Cancellations_for_City_Hotel.png' width=80%>
+
 <img src='plots/Percentage_of_Cancellations_for_Resort_Hotel.png' width=80%>
 
 
 
 
 <h2 id="about_ds">About Dataset</h2>
+
+---
 
 Since the original dataset was a real hotel dataset, of real customers, all the elements pertaining hotel or costumer identification were deleted.
 
